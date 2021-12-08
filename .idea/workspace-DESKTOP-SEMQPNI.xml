@@ -1,0 +1,564 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e45a1514-d508-4fc1-af10-05158db005c6" name="Changes" comment="Changes">
+      <change afterPath="$PROJECT_DIR$/Leetcode/278第一个错误的版本.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/35搜索插入位置.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/704二分查找.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/859亲密字符串.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/977有序数组的平方.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OtherPratices/build/井字棋游戏/Analysis-00.toc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OtherPratices/build/井字棋游戏/COLLECT-00.toc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OtherPratices/build/井字棋游戏/EXE-00.toc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OtherPratices/build/井字棋游戏/PKG-00.toc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OtherPratices/build/井字棋游戏/PYZ-00.pyz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OtherPratices/build/井字棋游戏/PYZ-00.toc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OtherPratices/build/井字棋游戏/Tree-00.toc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OtherPratices/build/井字棋游戏/Tree-01.toc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OtherPratices/build/井字棋游戏/Tree-02.toc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OtherPratices/build/井字棋游戏/base_library.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OtherPratices/build/井字棋游戏/warn-井字棋游戏.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OtherPratices/build/井字棋游戏/xref-井字棋游戏.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OtherPratices/build/井字棋游戏/井字棋游戏.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OtherPratices/build/井字棋游戏/井字棋游戏.exe.manifest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OtherPratices/build/井字棋游戏/井字棋游戏.pkg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OtherPratices/build/跑马灯/Analysis-00.toc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OtherPratices/build/跑马灯/EXE-00.toc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OtherPratices/build/跑马灯/PKG-00.toc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OtherPratices/build/跑马灯/PYZ-00.pyz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OtherPratices/build/跑马灯/PYZ-00.toc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OtherPratices/build/跑马灯/Tree-00.toc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OtherPratices/build/跑马灯/Tree-01.toc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OtherPratices/build/跑马灯/Tree-02.toc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OtherPratices/build/跑马灯/base_library.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OtherPratices/build/跑马灯/warn-跑马灯.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OtherPratices/build/跑马灯/xref-跑马灯.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OtherPratices/build/跑马灯/跑马灯.exe.manifest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OtherPratices/build/跑马灯/跑马灯.pkg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OtherPratices/dist/井字棋游戏.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OtherPratices/dist/跑马灯.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OtherPratices/井字棋游戏.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OtherPratices/井字棋游戏.spec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OtherPratices/跑马灯.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OtherPratices/跑马灯.spec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image_process/src/1176214.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image_process/src/2d6eb26d900a4631817007b08e7bf93e.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image_process/src/2d6eb26d900a4631817007b08e7bf93e_cropped.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image_process/src/6976A1BEF5776B21BF9915FD8DE19641.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image_process/src/beach-5264739.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image_process/图像裁剪.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image_process/给图片添加文字.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/PyLeetcode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PyLeetcode.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python practice/list.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/list.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python practice/name_case.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/name_case.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python practice/test01.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/test01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python practice/test02.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/test02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python practice/test03.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/test03.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python practice/test04.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/test04.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python practice/urlget.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/urlget.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedIndex" value="2" />
+  </component>
+  <component name="ProjectId" id="1zx5sxXNCKipYFn3J3sKnfzw1oP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="PyLeetcode" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="PyLeetcode" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.井字棋游戏">
+    <configuration name="图像裁剪" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyLeetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/image_process" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/image_process/图像裁剪.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="true" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="井字棋游戏" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyLeetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OtherPratices" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OtherPratices/井字棋游戏.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="true" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="35搜索插入位置" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyLeetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Leetcode" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Leetcode/35搜索插入位置.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="859亲密字符串" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyLeetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Leetcode" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Leetcode/859亲密字符串.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="977有序数组的平方" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyLeetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Leetcode" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Leetcode/977有序数组的平方.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="井字棋游戏" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyLeetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OtherPratices" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OtherPratices/井字棋游戏.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="true" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="跑马灯" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyLeetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OtherPratices" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OtherPratices/跑马灯.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="true" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="井字棋游戏" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyLeetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OtherPratices" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OtherPratices/井字棋游戏.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="true" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="PyLeetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\gonev\AppData\Local\Programs\Python\Python310\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="true" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.35搜索插入位置" />
+      <item itemvalue="Python.图像裁剪" />
+      <item itemvalue="Python.859亲密字符串" />
+      <item itemvalue="Python.977有序数组的平方" />
+      <item itemvalue="Python.井字棋游戏" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.井字棋游戏" />
+        <item itemvalue="Python.977有序数组的平方" />
+        <item itemvalue="Python.35搜索插入位置" />
+        <item itemvalue="Python.859亲密字符串" />
+        <item itemvalue="Python.图像裁剪" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e45a1514-d508-4fc1-af10-05158db005c6" name="Changes" comment="" />
+      <created>1635077109756</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1635077109756</updated>
+      <workItem from="1635077111154" duration="601000" />
+      <workItem from="1635077779869" duration="177000" />
+      <workItem from="1635077968021" duration="1394000" />
+      <workItem from="1635079392163" duration="574000" />
+      <workItem from="1635080015950" duration="588000" />
+      <workItem from="1635081228750" duration="415000" />
+      <workItem from="1635129523154" duration="1978000" />
+      <workItem from="1635131536476" duration="951000" />
+      <workItem from="1635162375789" duration="1768000" />
+      <workItem from="1635215318579" duration="1692000" />
+      <workItem from="1635326603340" duration="5828000" />
+      <workItem from="1635393508038" duration="1000" />
+      <workItem from="1635393538886" duration="13466000" />
+      <workItem from="1635419038866" duration="8317000" />
+      <workItem from="1635472789159" duration="10938000" />
+      <workItem from="1635575438679" duration="1333000" />
+      <workItem from="1635656347091" duration="2133000" />
+      <workItem from="1635726906096" duration="1201000" />
+      <workItem from="1635750044112" duration="19572000" />
+      <workItem from="1635811438288" duration="2075000" />
+      <workItem from="1635938184052" duration="891000" />
+      <workItem from="1635939094923" duration="12453000" />
+      <workItem from="1636014383485" duration="103000" />
+      <workItem from="1636076807168" duration="519000" />
+      <workItem from="1636511308529" duration="126000" />
+      <workItem from="1636856581105" duration="90000" />
+      <workItem from="1636957476868" duration="27000" />
+      <workItem from="1637072171131" duration="545000" />
+      <workItem from="1637072732302" duration="6757000" />
+      <workItem from="1637235845576" duration="24000" />
+      <workItem from="1637482715653" duration="455000" />
+      <workItem from="1637561201137" duration="4574000" />
+      <workItem from="1637574426670" duration="2772000" />
+      <workItem from="1637643879858" duration="3810000" />
+      <workItem from="1637649078971" duration="311000" />
+    </task>
+    <task id="LOCAL-00001" summary="Changes">
+      <created>1635421307944</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1635421307944</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Changes">
+      <created>1635490295153</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1635490295153</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Changes">
+      <created>1635576759114</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1635576759114</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Changes">
+      <created>1635751244711</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1635751244712</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Changes">
+      <created>1635775027265</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1635775027265</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Changes">
+      <created>1635998845097</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1635998845097</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Changes">
+      <created>1636014399732</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1636014399732</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Changes">
+      <created>1637075816837</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1637075816837</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Changes">
+      <created>1637562145261</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1637562145261</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changes" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Leetcode/43字符串相乘.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Leetcode/5最长回文子串.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Leetcode/2两数相加.py</url>
+          <line>38</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Leetcode/1249移除无效的括号.py</url>
+          <line>54</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Leetcode/1823找出游戏的获胜者.py</url>
+          <line>55</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Leetcode/1823找出游戏的获胜者.py</url>
+          <line>38</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Leetcode/495提莫攻击.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/OtherPratices/井字棋游戏.py</url>
+          <line>94</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Leetcode/859亲密字符串.py</url>
+          <line>32</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Leetcode/977有序数组的平方.py</url>
+          <line>57</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="result" language="Python" />
+        <watch expression="brackets" />
+        <watch expression="result" language="Python" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/PyLeetcode$260III.coverage" NAME="260只出现一次的数字III 覆盖结果" MODIFIED="1635576645897" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/PyLeetcode$test.coverage" NAME="test 覆盖结果" MODIFIED="1635331032830" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/PyLeetcode$2.coverage" NAME="2两数相加 覆盖结果" MODIFIED="1635812171283" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/PyLeetcode$560k.coverage" NAME="560和为k的子数组 覆盖结果" MODIFIED="1635409251328" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/PyLeetcode$237.coverage" NAME="237删除链表中的节点 覆盖结果" MODIFIED="1635812918265" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/PyLeetcode$test02.coverage" NAME="test02 覆盖结果" MODIFIED="1637079393501" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python practice" />
+    <SUITE FILE_PATH="coverage/PyLeetcode$5.coverage" NAME="5最长回文子串 覆盖结果" MODIFIED="1635775007717" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/PyLeetcode$367.coverage" NAME="367有效的完全平方数 覆盖结果" MODIFIED="1635998387635" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/PyLeetcode$290.coverage" NAME="290单词规律 覆盖结果" MODIFIED="1635754538738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/PyLeetcode$415.coverage" NAME="415字符串相加 覆盖结果" MODIFIED="1635751111112" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/PyLeetcode$977.coverage" NAME="977有序数组的平方 Coverage Results" MODIFIED="1637647349935" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/PyLeetcode$urlget.coverage" NAME="urlget 覆盖结果" MODIFIED="1635426552614" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python practice" />
+    <SUITE FILE_PATH="coverage/PyLeetcode$119II.coverage" NAME="119杨辉三角II 覆盖结果" MODIFIED="1635080247584" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/PyLeetcode$35.coverage" NAME="35搜索插入位置 Coverage Results" MODIFIED="1637645131151" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/PyLeetcode$334.coverage" NAME="334递增的三元子序列 覆盖结果" MODIFIED="1635404579744" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/PyLeetcode$384.coverage" NAME="384打乱数组 覆盖结果" MODIFIED="1637561958403" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/PyLeetcode$155.coverage" NAME="155最小栈 覆盖结果" MODIFIED="1635939002315" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/PyLeetcode$test03.coverage" NAME="test03 覆盖结果" MODIFIED="1635495031772" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python practice" />
+    <SUITE FILE_PATH="coverage/PyLeetcode$496I.coverage" NAME="496下一个更大元素I 覆盖结果" MODIFIED="1635216751591" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/PyLeetcode$1823.coverage" NAME="1823找出游戏的获胜者 覆盖结果" MODIFIED="1636000144585" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/PyLeetcode$763.coverage" NAME="763划分字母区间 覆盖结果" MODIFIED="1635757515507" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/PyLeetcode$49.coverage" NAME="49字母异位词分组 覆盖结果" MODIFIED="1635759611802" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/PyLeetcode$409.coverage" NAME="409最长回文串 覆盖结果" MODIFIED="1635753468604" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/PyLeetcode$859.coverage" NAME="859亲密字符串 Coverage Results" MODIFIED="1637643998154" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/PyLeetcode$8692.coverage" NAME="869重新排序得到2的幂 覆盖结果" MODIFIED="1635402232615" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/PyLeetcode$1249.coverage" NAME="1249移除无效的括号 覆盖结果" MODIFIED="1635994307329" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/PyLeetcode$301.coverage" NAME="301删除无效的括号 覆盖结果" MODIFIED="1635335481818" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/PyLeetcode$48.coverage" NAME="48旋转图形 覆盖结果" MODIFIED="1635080284404" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/PyLeetcode$test01.coverage" NAME="test01 覆盖结果" MODIFIED="1635421373592" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python practice" />
+    <SUITE FILE_PATH="coverage/PyLeetcode$238.coverage" NAME="238除自身以外数组的乘积 覆盖结果" MODIFIED="1635406899433" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/PyLeetcode$575.coverage" NAME="575分糖果 覆盖结果" MODIFIED="1635727204517" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/PyLeetcode$704.coverage" NAME="704二分查找 覆盖结果" MODIFIED="1637562479436" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/PyLeetcode$.coverage" NAME="井字棋游戏 Coverage Results" MODIFIED="1637649180263" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OtherPratices" />
+    <SUITE FILE_PATH="coverage/PyLeetcode$43.coverage" NAME="43字符串相乘 覆盖结果" MODIFIED="1635761035632" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/PyLeetcode$495.coverage" NAME="495提莫攻击 覆盖结果" MODIFIED="1636511373722" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/PyLeetcode$397.coverage" NAME="397整数替换 Coverage Results" MODIFIED="1637482897059" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/PyLeetcode$test04.coverage" NAME="test04 覆盖结果" MODIFIED="1637077946556" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python practice" />
+  </component>
+</project>
